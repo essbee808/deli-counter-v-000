@@ -1,4 +1,5 @@
-# Deli Counter - Take a Number
+fft
+-# Deli Counter - Take a Number
 
 ## Objectives
 1. Practice building methods that use iteration and controlling their return values.
