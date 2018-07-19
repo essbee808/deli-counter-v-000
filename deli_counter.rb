@@ -11,7 +11,7 @@ def now_serving(katz_deli)
   if katz_deli.length == 0
     puts "There is nobody waiting to be served!"
   elsif katz_deli.length != 0
-    return katz_deli.first
+    katz_deli <<
   end
 end
 
